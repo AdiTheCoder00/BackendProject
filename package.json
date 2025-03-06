@@ -12,5 +12,8 @@
   ],
   "author": "Aditya Maini",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
 }
